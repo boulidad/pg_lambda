@@ -2,7 +2,7 @@
 
 import psycopg2
 
-db_host = "lambda.cqrcyb3h2bq2.us-east-1.rds.amazonaws.com"
+db_host = "<RDS HOSTNAME>"
 db_port = 5432
 db_name = "postgres"
 db_user = "dba"
